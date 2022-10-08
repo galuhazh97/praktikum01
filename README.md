@@ -1,2 +1,2 @@
-# praktikum01
+# praktikum01_si15_0100122129_GaluhAzhary
 Tugas Pemograman Web
